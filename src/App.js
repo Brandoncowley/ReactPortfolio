@@ -1,11 +1,11 @@
 
 import './App.css';
-import Navbar from './Navbar';
-import Home from './Home';
-import Portfolio from './Portfolio';
-import Contact from './Contact';
-import Resume from './Resume';
-import Footer from './Footer';
+import Navbar from './components/header';
+import Home from './views/Home';
+import Portfolio from './views/Portfolio';
+import Contact from './views/Contact';
+import Resume from './views/Resume';
+import Footer from './components/footer';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 
 
