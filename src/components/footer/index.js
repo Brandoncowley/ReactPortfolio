@@ -3,7 +3,7 @@ import logo from './logo.svg';
 
 function Footer() {
   return (
-    <footer className="App-footer">
+    <footer className="App-footer pb-5">
          <img src={logo} className="App-logo" alt="logo" />
          <i class="fab fa-github"></i>
          <a href="mailto:brandon.cowley@gmail.com" target="_blank" rel="noreferrer"><i class="bi bi-envelope-open mx-3"></i></a>

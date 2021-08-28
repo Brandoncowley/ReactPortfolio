@@ -20,6 +20,7 @@ const Contact = () => {
             ></textarea>
             <button>Send It!</button>        
         </form>
+        <h6>Or simply send me an email using the link in the footer below!</h6>
     </div>
      );
 }
